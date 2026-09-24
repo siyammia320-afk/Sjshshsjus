@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">INSTAGRAM</string>
+    <string name="btn_email">EMAIL</string>
+    <string name="btn_2fa">2FA</string>
+    <string name="btn_clear_data">CLEAR DATA</string>
+    <string name="data_cleared">Data Cleared</string>
+</resources>
